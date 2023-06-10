@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats-psi-ecru-29.vercel.app/api/top-langs/?username=MixColumns&theme=transparent)](https://github.com/MixColumns/)
-[![Stats](https://github-readme-stats-psi-ecru-29.vercel.app/api?username=MixColumns&theme=transparent)](https://github.com/MixColumns/)
+[![Stats](https://github-readme-stats-psi-ecru-29.vercel.app/api?username=MixColumns&theme=transparent&hide_rank=true&include_all_commits=true)](https://github.com/MixColumns/)
 
 
 <p align="right">
